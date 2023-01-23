@@ -58,7 +58,8 @@
             </div>
         </div>
         <div class=" position-relative ">
-            <img class="bg-logo" src="/dc-logo-bg.png" alt="">
+            <img class="bg-logo" src="{{ Vite::asset('resources/img/dc-logo-bg.png') }}" alt="">
+
         </div>
     </div>
 </footer>
